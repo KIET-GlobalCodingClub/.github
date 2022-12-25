@@ -11,7 +11,7 @@ About:
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
 |             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar      |                       | On Progress |
 |             |   User Portfolio          |  S Maheswar  | Shashank     |                       | On Progress |
-|             |    Video Conference         | GOPATHOTI SRINADH   | Sairam      |                       | On Progress |
+|             |    Video Conference         | GOPATHOTI SRINADH   | Sairam  ,Sai kumar    |                       | On Progress |
 |             |   Resource For U          | Chikkam Sarika    |   Shashank    |                       |
 |             |   Online Language Practice Hub          | PAGADALA NAGENDRA   |  Pooja , Durga Gunnam     |                       | On Progress |
 |             |   Task Manager          | SRI LASYA KASTALA    | Vikas ,Meghana     |                       | On Progress |
@@ -25,7 +25,7 @@ About:
 |             |   Attendance Management system          | T.VASU   |    Vikas , Meghana    |                       | On Progress |
 |             |   Online Youtube Library          |  KONDURI PRAPURNA    |  Sita lavanya , Usha.M     |                       | On Progress |
 |             |   Real Time Chat Bot          | A R S S BHARGAVI LATHA   |  Pooja , Durga Gunnam     |                       |  On Progress |
-|             |    Monthly performace Progress         | PENJARLA DEEPTHI SAI LAKSHMI   | Sairam      |                       |  On Progress |
+|             |    Monthly performace Progress         | PENJARLA DEEPTHI SAI LAKSHMI   | Sairam ,Sai Kumar      |                       |  On Progress |
 |             |   Student Profile          | Navya Sri   |   Sravanthi    |                       |  On Progress |
 |             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar      |                       |  On Progress |
 
