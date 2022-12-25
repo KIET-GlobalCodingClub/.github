@@ -7,7 +7,24 @@ About:
 # Web-projects
 
   
-        | Project Code | Project Name | Description | Team Lead | Mentor |
-        | ------------ | ------------ | ----------- | -------- | ----- |
-        | P1           | Test          |             |         | Praveen |
-
+| Project Code | Project Name    | Team Lead | Mentor | project Description |
+| ----------- | ----------- | --------------- | ----- | -------------------  |
+|             |             |  P.T.N.SWETHA  |      |                       |
+|             |             | GOPATHOTI SRINADH   |       |                       |
+|             |             | Chikkam Sarika    |       |                       |
+|             |             | PAGADALA NAGENDRA   |       |                       |
+|             |             | SRI LASYA KASTALA    |       |                       |
+|             |             | Balusu Harsha Sri     |       |                       |
+|             |             | K.RAGHAVENDRA   |       |                       |
+|             |             | Matta Bhuvaneswari  |       |                       |
+|             |             | VEERAMREDDY LAVANYA    |       |                       |
+|             |             | Amalapurapu Jyothi Sri swaroop     |       |           |            
+|             |             | NUNNA RUPA LAVANYA DEVI   |       |                       |
+|             |             | B. NAGA SYAMALA DEVI    |       |                       |
+|             |             | T.VASU   |       |                       |
+|             |             |  KONDURI PRAPURNA    |       |                       |
+|             |             | Penjarla Deepthi Sai Lakshmi    |       |                       |
+|             |             | A R S S BHARGAVI LATHA   |       |                       |
+|             |             | PENJARLA DEEPTHI SAI LAKSHMI   |       |                       |
+|             |             | Navya Sri   |       |                       |
+|             |             | NAMALA HEMANTH KUMAR   |       |                       |
