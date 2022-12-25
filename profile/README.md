@@ -2,7 +2,7 @@
 
 About:
 
-   SpecialCoding Batch is a completely student oriented club in KIET College ,Kakinada where we focus on changing the mindset of the students from routine engineering life to the Area they are interested in mostly related to the technology as well as we focus on finding the solutions to Real life time Web Technology and Emerging Technology.
+   A totally student-focused club at KIET College in Kakinada, Special Coding Batch aims to help students shift their thinking from typical engineering life to areas of technology they are most interested in while also focusing on real-world web technology and emerging technological problems.
    
 # Web-projects
 
@@ -10,6 +10,7 @@ About:
 | Project Code | Project Name    | Team Lead | Mentor | project Description |
 | ----------- | ----------- | --------------- | ----- | -------------------  |
 |             |             |  P.T.N.SWETHA  | Praveen Kumar      |                       |
+|             |             |  S Maheswar  | Shashank     |                       |
 |             |             | GOPATHOTI SRINADH   | Sairam      |                       |
 |             |             | Chikkam Sarika    |   Shashank    |                       |
 |             |             | PAGADALA NAGENDRA   |  Pooja , Durga Gunnam     |                       |
@@ -23,7 +24,6 @@ About:
 |             |             | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       |
 |             |             | T.VASU   |    Vikas , Meghana    |                       |
 |             |             |  KONDURI PRAPURNA    |  Sita lavanya , Usha.M     |                       |
-|             |             | Penjarla Deepthi Sai Lakshmi    | Shashank      |                       |
 |             |             | A R S S BHARGAVI LATHA   |  Pooja , Durga Gunnam     |                       |
 |             |             | PENJARLA DEEPTHI SAI LAKSHMI   | Sairam      |                       |
 |             |             | Navya Sri   |   Sravanthi    |                       |
@@ -36,6 +36,7 @@ About:
 | Project Code | Project Name    | Team Lead | Mentor | project Description |  Status|
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
 |  | Customer Segmentation             |  P.T.N.SWETHA  | Praveen Kumar      |                       | on hold  |
+|             |    Speech Rate prediction         |  S Maheswar  |     |                       |   |
 |  |    Car Price Prediction              | GOPATHOTI SRINADH   |       |                       | on hold   |
 |  |Income Classification             | Chikkam Sarika    |     |                       | on hold   |
 |  | Traffic Forecast            | PAGADALA NAGENDRA   |       |                       | on hold  |
@@ -49,7 +50,6 @@ About:
 |             |  Heart Disease prediction           | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | on hold  |
 |             | Mall costumer segmentation            | T.VASU   |       |                       |        | on hold  |
 |             |  face Detection           |  KONDURI PRAPURNA    |      |                       | on hold  |
-|             |     First Innings score prediction        | Penjarla Deepthi Sai Lakshmi    |     |                       | on hold  |
 |             |    Cancer detection         | A R S S BHARGAVI LATHA   |   |                       |       on hold  |
 |             |   Future sales prediction          | PENJARLA DEEPTHI SAI LAKSHMI   |      |                       | on hold  |
 |             |   Water Quality analysis          | Navya Sri   |      |                       | on hold  |
