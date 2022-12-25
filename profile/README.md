@@ -52,5 +52,5 @@ About:
 |             |     First Innings score prediction        | Penjarla Deepthi Sai Lakshmi    |     |                       | on hold  |
 |             |    Cancer detection         | A R S S BHARGAVI LATHA   |   |                       |       on hold  |
 |             |   Future sales prediction          | PENJARLA DEEPTHI SAI LAKSHMI   |      |                       | on hold  |
-|             |   Water Quality analysis          | Navya Sri   |   Sravanthi    |                       | on hold  |
+|             |   Water Quality analysis          | Navya Sri   |      |                       | on hold  |
 |             |   Tata motors stocks prediction          | NAMALA HEMANTH KUMAR   | Praveen Kumar      |                       | on hold  |
