@@ -20,7 +20,7 @@ About:
 |             |             | Matta Bhuvaneswari  |  Sravanthi     |                       |  On Progress |
 |             |             | VEERAMREDDY LAVANYA    |  Maha Lakshmi     |                       |  On Progress |
 |             |       Daily Topics Remainder      | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar    |           |       On Progress |      
-|             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Sairam     |                       | On Progress |
+|             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Sairam,Sai kumar    |                       | On Progress |
 |             |    Online Learning Website         | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | On Progress |
 |             |   Attendance Management system          | T.VASU   |    Vikas , Meghana    |                       | On Progress |
 |             |   Online Youtube Library          |  KONDURI PRAPURNA    |  Sita lavanya , Usha.M     |                       | On Progress |
