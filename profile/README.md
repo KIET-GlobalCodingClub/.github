@@ -9,9 +9,9 @@ About:
   
 | Project Code | Project Name    | Team Lead | Mentor | project Description | Status
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
-|             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar      |                       | On Progress |
+|             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | On Progress |
 |             |   User Portfolio          |  S Maheswar  | Shashank     |                       | On Progress |
-|             |    Video Conference         | GOPATHOTI SRINADH   | Sairam  ,Sai kumar    |                       | On Progress |
+|             |    Video Conference         | GOPATHOTI SRINADH   | Sairam  ,Sai kumar Pola   |                       | On Progress |
 |             |   Resource For U          | Chikkam Sarika    |   Shashank    |                       |
 |             |   Online Language Practice Hub          | PAGADALA NAGENDRA   |  Pooja , Durga Gunnam     |                       | On Progress |
 |             |   Task Manager          | SRI LASYA KASTALA    | Vikas ,Meghana     |                       | On Progress |
@@ -19,15 +19,15 @@ About:
 |             |  Chart Application          | K.RAGHAVENDRA        |Sita lavanya , Usha.M       |                       | On Progress |
 |             |             | Matta Bhuvaneswari  |  Sravanthi     |                       |  On Progress |
 |             |             | VEERAMREDDY LAVANYA    |  Maha Lakshmi     |                       |  On Progress |
-|             |       Daily Topics Remainder      | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar    |           |       On Progress |      
-|             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Sairam,Sai kumar    |                       | On Progress |
+|             |       Daily Topics Remainder      | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar Palaboyina   |           |       On Progress |      
+|             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Sairam,Sai kumar Pola   |                       | On Progress |
 |             |    Online Learning Website         | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | On Progress |
 |             |   Attendance Management system          | T.VASU   |    Vikas , Meghana    |                       | On Progress |
 |             |   Online Youtube Library          |  KONDURI PRAPURNA    |  Sita lavanya , Usha.M     |                       | On Progress |
 |             |   Real Time Chat Bot          | A R S S BHARGAVI LATHA   |  Pooja , Durga Gunnam     |                       |  On Progress |
-|             |    Monthly performace Progress         | PENJARLA DEEPTHI SAI LAKSHMI   | Sairam ,Sai Kumar      |                       |  On Progress |
+|             |    Monthly performace Progress         | PENJARLA DEEPTHI SAI LAKSHMI   | Sairam ,Sai Kumar Pola     |                       |  On Progress |
 |             |   Student Profile          | Navya Sri   |   Sravanthi    |                       |  On Progress |
-|             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar      |                       |  On Progress |
+|             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar Palaboyina     |                       |  On Progress |
 
    
 # ML Projects
