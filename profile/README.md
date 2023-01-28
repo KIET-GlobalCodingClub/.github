@@ -24,7 +24,7 @@ About:
 |             |    Online Learning Website         | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | On Progress |
 |             |   Attendance Management system          | T.VASU   |    Vikas , Meghana    |                       | On Progress |
 |             |   Online Youtube Library          |  KONDURI PRAPURNA    |  Sita lavanya , Usha.M     |                       | On Progress |
-|             |   Real Time Chat Bot          | A R S S BHARGAVI LATHA   |  Pooja , Durga Gunnam     |                       |  On Progress |
+|             |   Resume Builder         | A R S S BHARGAVI LATHA   |  Pooja , Durga Gunnam     |                       |  On Progress |
 |             |    Monthly performace Progress         | PENJARLA DEEPTHI SAI LAKSHMI   | Sairam ,Sai Kumar Pola     |                       |  On Progress |
 |             |   Student Profile          | Navya Sri   |   Sravanthi    |                       |  On Progress |
 |             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar Palaboyina     |                       |  On Progress |
