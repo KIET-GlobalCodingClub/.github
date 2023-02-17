@@ -19,7 +19,7 @@ About:
 |             |  Chart Application          | K.RAGHAVENDRA        |Sita lavanya , Usha.M       |                       | On Progress |
 |             |             | Matta Bhuvaneswari  |  Sravanthi     |                       |  On Progress |
 |             |             | VEERAMREDDY LAVANYA    |  Maha Lakshmi     |                       |  On Progress |
-|             |       Daily Topics Remainder      | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar Palaboyina   |           |       On Progress |      
+|             |      Task Asssigned     | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar Palaboyina   |           |       On Progress |      
 |             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Sairam,Sai kumar Pola   |                       | On Progress |
 |             |    Online Learning Website         | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | On Progress |
 |             |   Attendance Management system          | T.VASU   |    Vikas , Meghana    |                       | On Progress |
