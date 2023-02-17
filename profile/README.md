@@ -9,7 +9,7 @@ About:
   
 | Project Code | Project Name    | Team Lead | Mentor | project Description | Status
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
-|             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | On Progress |
+|             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | Completed |
 |             |   User Portfolio          |  S Maheswar  | Shashank     |                       | On Progress |
 |             |   Leave Management        | GOPATHOTI SRINADH   | Sairam  ,Sai kumar Pola   |                       | On Progress |
 |             |   Resource For U          | Chikkam Sarika    |   Shashank    |                       |
