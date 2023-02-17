@@ -10,8 +10,8 @@ About:
 | Project Code | Project Name    | Team Lead | Mentor | project Description | Status
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
 |             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | Completed |
-|             |   User Portfolio          |  S Maheswar  | Shashank     |                       | On Progress |
-|             |   Leave Management        | GOPATHOTI SRINADH   | Sairam  ,Sai kumar Pola   |                       | On Progress |
+|             |   User Portfolio          |  S Maheswar  | Mahalakshmi    |                       | On Progress |
+|             |   Leave Management        | GOPATHOTI SRINADH   | Praveenkumar Palaboyina   |                       | On Progress |
 |             |   Resource For U          | Chikkam Sarika    |   Shashank    |                       |
 |             |   Online Language Practice Hub          | PAGADALA NAGENDRA   |  Pooja , Durga Gunnam     |                       | On Progress |
 |             |   Task Manager          | SRI LASYA KASTALA    | Vikas ,Meghana     |                       | On Progress |
