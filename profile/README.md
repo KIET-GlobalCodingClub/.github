@@ -11,7 +11,7 @@ About:
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
 |             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | On Progress |
 |             |   User Portfolio          |  S Maheswar  | Shashank     |                       | On Progress |
-|             |    Video Conference         | GOPATHOTI SRINADH   | Sairam  ,Sai kumar Pola   |                       | On Progress |
+|             |   Leave Management        | GOPATHOTI SRINADH   | Sairam  ,Sai kumar Pola   |                       | On Progress |
 |             |   Resource For U          | Chikkam Sarika    |   Shashank    |                       |
 |             |   Online Language Practice Hub          | PAGADALA NAGENDRA   |  Pooja , Durga Gunnam     |                       | On Progress |
 |             |   Task Manager          | SRI LASYA KASTALA    | Vikas ,Meghana     |                       | On Progress |
