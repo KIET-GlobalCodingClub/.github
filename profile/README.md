@@ -10,24 +10,24 @@ About:
 | Project Code | Project Name    | Team Lead | Mentor | project Description | Status
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
 |             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | Completed |
-|             |   User Portfolio          |  S Maheswar  | Mahalakshmi    |                       | On Progress |
-|             |   Leave Management        | GOPATHOTI SRINADH   | Praveenkumar Palaboyina   |                       | On Progress |
-|             |   Resource For U          | Chikkam Sarika    |   Shashank    |                       |
-|             |   Online Language Practice Hub          | PAGADALA NAGENDRA   |  Pooja , Durga Gunnam     |                       | On Progress |
-|             |   Task Manager          | SRI LASYA KASTALA    | Vikas ,Meghana     |                       | On Progress |
-|             |  Leave Application           | Balusu Harsha Sri     |   Maha lakshmi    |                       | On Progress |
-|             |  Chart Application          | K.RAGHAVENDRA        |Sita lavanya , Usha.M       |                       | On Progress |
-|             |             | Matta Bhuvaneswari  |  Sravanthi     |                       |  On Progress |
-|             |             | VEERAMREDDY LAVANYA    |  Maha Lakshmi     |                       |  On Progress |
-|             |      Task Asssigned     | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar Palaboyina   |           |       On Progress |      
-|             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Sairam,Sai kumar Pola   |                       | On Progress |
-|             |    Online Learning Website         | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | On Progress |
-|             |   Attendance Management system          | T.VASU   |    Vikas , Meghana    |                       | On Progress |
-|             |   Online Youtube Library          |  KONDURI PRAPURNA    |  Sita lavanya , Usha.M     |                       | On Progress |
-|             |   Resume Builder         | Praveen Kumar Kanakala   |  Pooja , Durga Gunnam     |                       | Completed |
-|             |    Monthly performace Progress         | PENJARLA DEEPTHI SAI LAKSHMI   | Sairam ,Sai Kumar Pola     |                       |  On Progress |
-|             |   Student Profile          | Navya Sri   |   Sravanthi    |                       |  On Progress |
-|             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar Palaboyina     |                       |  On Progress |
+|             |   User Portfolio          |  S Maheswar  | Mahalakshmi    |                       | Completed |
+|             |   Leave Management        | GOPATHOTI SRINADH   | Praveenkumar Palaboyina   |                       | Completed |
+|             |   Resource For U          | Chikkam Sarika    |   Praveen kumar Palaboyina    |                       |
+|             |   Online Language Practice Hub          | PAGADALA NAGENDRA   |  Mahalakshmi     |                       | Completed |
+|             |   Task Manager          | SRI LASYA KASTALA    | praveen kumar     |                       | Completed |
+|             |  Leave Management          | Balusu Harsha Sri     |   Mahalakshmi    |                       | Completed |
+|             | SCB Infoboard          | K.RAGHAVENDRA        |Mahalakshmi     |                       |Completed |
+|             |             | Matta Bhuvaneswari  |  Sravanthi     |                       |  Completed |
+|             |             | VEERAMREDDY LAVANYA    |  Maha Lakshmi     |                       |  Completed |
+|             |      Task Asssigner     | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar Palaboyina   |           |      Completed |      
+|             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Mahalakshmi  |                       |Completed |
+|             |    Online Learning Website         | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | Completed |
+|             |   Attendance Management system          | T.VASU   |    Praveen    |                       | Completed |
+|             |   Online Youtube Library          |  KONDURI PRAPURNA    | Mahalakshmi   |                       | Completed |
+|             |   Resume Builder         | Praveen Kumar Kanakala   |  Praveen   |                       | Completed |
+|             |    Monthly performace Progress         | PENJARLA DEEPTHI SAI LAKSHMI   | Mahalakshmi    |                       |  Completed |
+|             |   Student Profile          | Navya Sri   |  Praveen   |                       |  Completed |
+|             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar Palaboyina     |                       |  Onprogress |
 
    
 # ML Projects
