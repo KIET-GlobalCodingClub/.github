@@ -12,7 +12,7 @@ About:
 |             |    User DashBoard        |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | Completed |
 |             |   User Portfolio          |  S Maheswar  | Mahalakshmi    |                       | Completed |
 |             |   Leave Management        | GOPATHOTI SRINADH   | Praveenkumar Palaboyina   |                       | Completed |
-|             |   Resource For U          | Chikkam Sarika    |   Praveen kumar Palaboyina    |                       |
+|             |   Resource For U          | Chikkam Sarika    |   Praveen kumar Palaboyina    |                       | Completed |
 |             |   Online Language Practice Hub          | PAGADALA NAGENDRA   |  Mahalakshmi     |                       | Completed |
 |             |   Task Manager          | SRI LASYA KASTALA    | praveen kumar     |                       | Completed |
 |             |  Leave Management          | Balusu Harsha Sri     |   Mahalakshmi    |                       | Completed |
