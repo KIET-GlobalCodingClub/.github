@@ -30,26 +30,26 @@ About:
 |             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar Palaboyina     |                       |  Onprogress |
 
    
-# ML Projects
+# ML Projects--SUPERVISED LEARNING
 
   
 | Project Code | Project Name    | Team Lead | Mentor | project Description |  Status|
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
-|  | Customer Segmentation             |  P.T.N.SWETHA  | Praveen Kumar      |                       | on hold  |
-|             |    Speech Rate prediction         |  S Maheswar  |     |                       |   On hold | 
+|  | Marketing Campaign Success Prediction            |  P.T.N.SWETHA  | Praveen Kumar      |                       | on hold  |
+|             |    Housing Price Prediction          |  S Maheswar  |     |                       |   On hold | 
 |  |    Car Price Prediction              | GOPATHOTI SRINADH   |       |                       | on hold   |
-|  |Income Classification             | Chikkam Sarika    |     |                       | on hold   |
-|  | Traffic Forecast            | PAGADALA NAGENDRA   |       |                       | on hold  |
+|  |Medical Diagnosis            | Chikkam Sarika    |     |                       | on hold   |
+|  | Temperature Prediction          | PAGADALA NAGENDRA   |       |                       | on hold  |
 | | Diabetes Classification            | SRI LASYA KASTALA    |      |                       | on hold  |
-| | Sentiment Analysis           | Balusu Harsha Sri     | Maha Lakshmi     |                       | on hold  |
-| | Digit Recognition Model            | K.RAGHAVENDRA        |      |                       | on hold |
+| | Fuel Efficiency Estimation         | Balusu Harsha Sri     | Maha Lakshmi     |                       | on hold  |
+| | Handwritten Digit/Character Recognition           | K.RAGHAVENDRA        |      |                       | on hold |
 |  | Google Search Analysis             | Matta Bhuvaneswari  |       |                       | on hold  |
 |   | Mobile Price Classification         | VEERAMREDDY LAVANYA    |      |                       | on hold |
 |  |   Predict  US election         | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar    |           |       on hold  |     
 |             |    Loan Prediction analysis         | NUNNA RUPA LAVANYA DEVI   |    |                       |   on hold  |
 |             |  Heart Disease prediction           | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | on hold  |
 |             | Mall costumer segmentation            | T.VASU   |       |                       |        | on hold  |
-|             |  face Detection           |  KONDURI PRAPURNA    |      |                       | on hold  |
+|             |  Cancer Diagnosis         |  KONDURI PRAPURNA    |      |                       | on hold  |
 |             |    Cancer detection         | A R S S BHARGAVI LATHA   |   |                       |       on hold  |
 |             |   Future sales prediction          | PENJARLA DEEPTHI SAI LAKSHMI   |      |                       | on hold  |
 |             |   Water Quality analysis          | Navya Sri   |      |                       | on hold  |
