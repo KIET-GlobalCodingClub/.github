@@ -43,11 +43,11 @@ About:
 | SCBML007     | Fuel Efficiency Estimation                | Balusu Harsha Sri        | Maha Lakshmi            | Random Forest       | on hold  |
 | SCBML008     | Handwritten Digit/Character Recognition  | K.RAGHAVENDRA            | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML009     | Google Search Analysis                    | Matta Bhuvaneswari       | Praveen Kumar Palaboyina | Regression          | on hold  |
-| SCBML010     | Mobile Price Classification               | VEERAMREDDY LAVANYA      | Praveen Kumar Palaboyina | Random Forest       | on hold  |
+| SCBML010     | Mobile Price Classification               | Rupa      | Praveen Kumar Palaboyina | Random Forest       | on hold  |
 | SCBML011     | Predict US Election                       | Amalapurapu Jyothi Sri swaroop | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML012     | Loan Prediction analysis                  | NUNNA RUPA LAVANYA DEVI   | Praveen Kumar Palaboyina | Regression          | on hold  |
-| SCBML013     | Heart Disease prediction                   | B. NAGA SYAMALA DEVI     | Maha Lakshmi            | Random Forest       | on hold  |
-| SCBML014     | Mall customer segmentation                 | T.VASU                   | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML013     | Heart Disease prediction                   | kishore   | Maha Lakshmi            | Random Forest       | on hold  |
+| SCBML014     | Mall customer segmentation                 | Praveen                   | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML015     | Cancer Diagnosis                           | KONDURI PRAPURNA         | Praveen Kumar Palaboyina | Random Forest       | on hold  |
 | SCBML016     | Cancer Detection                           | A R S S BHARGAVI LATHA   | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML017     | Future Sales Prediction                    | PENJARLA DEEPTHI SAI LAKSHMI | Praveen Kumar Palaboyina | Random Forest       | on hold  |
