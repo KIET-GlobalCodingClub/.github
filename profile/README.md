@@ -32,25 +32,26 @@ About:
    
 # ML Projects--SUPERVISED LEARNING
 
-| Project Code | Project Name                             | Team Lead                 | Mentor           | Algorithm Used      | Status   |
-|--------------|------------------------------------------|--------------------------|------------------|---------------------|----------|
-| SCBML001     | Marketing Campaign Success Prediction    | P.T.N.SWETHA             | Praveen Kumar    | Random Forest       | on hold  |
-| SCBML002     | Housing Price Prediction                 | S Maheswar               |                  | Regression          | On hold  |
-| SCBML003     | Car Price Prediction                     | GOPATHOTI SRINADH         |                  | SVM                 | on hold  |
-| SCBML004     | Medical Diagnosis                         | Chikkam Sarika           |                  | Random Forest       | on hold  |
-| SCBML005     | Temperature Prediction                    | PAGADALA NAGENDRA        |                  | Regression          | on hold  |
-| SCBML006     | Diabetes Classification                   | SRI LASYA KASTALA        |                  | SVM                 | on hold  |
-| SCBML007     | Fuel Efficiency Estimation                | Balusu Harsha Sri        | Maha Lakshmi     | Random Forest       | on hold  |
-| SCBML008     | Handwritten Digit/Character Recognition  | K.RAGHAVENDRA            |                  | SVM                 | on hold  |
-| SCBML009     | Google Search Analysis                    | Matta Bhuvaneswari       |                  | Regression          | on hold  |
-| SCBML010     | Mobile Price Classification               | VEERAMREDDY LAVANYA      |                  | Random Forest       | on hold  |
-| SCBML011     | Predict US Election                       | Amalapurapu Jyothi Sri swaroop | Praveen Kumar | SVM                 | on hold  |
-| SCBML012     | Loan Prediction analysis                  | NUNNA RUPA LAVANYA DEVI   |                  | Regression          | on hold  |
-| SCBML013     | Heart Disease prediction                   | B. NAGA SYAMALA DEVI     | Maha Lakshmi     | Random Forest       | on hold  |
-| SCBML014     | Mall customer segmentation                 | T.VASU                   |                  | SVM                 | on hold  |
-| SCBML015     | Cancer Diagnosis                           | KONDURI PRAPURNA         |                  | Random Forest       | on hold  |
-| SCBML016     | Cancer Detection                           | A R S S BHARGAVI LATHA   |                  | SVM                 | on hold  |
-| SCBML017     | Future Sales Prediction                    | PENJARLA DEEPTHI SAI LAKSHMI |              | Random Forest       | on hold  |
-| SCBML018     | Water Quality Analysis                     | Navya Sri                |                  | Regression          | on hold  |
-| SCBML019     | Tata Motors Stocks Prediction              | NAMALA HEMANTH KUMAR     | Praveen Kumar    | SVM                 | on hold  |
+| Project Code | Project Name                             | Team Lead                 | Mentor                  | Algorithm Used      | Status   |
+|--------------|------------------------------------------|--------------------------|------------------------|---------------------|----------|
+| SCBML001     | Marketing Campaign Success Prediction    | P.T.N.SWETHA             | Praveen Kumar Palaboyina | Random Forest       | on hold  |
+| SCBML002     | Housing Price Prediction                 | S Maheswar               | Praveen Kumar Palaboyina | Regression          | On hold  |
+| SCBML003     | Car Price Prediction                     | GOPATHOTI SRINADH         | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML004     | Medical Diagnosis                         | Chikkam Sarika           | Praveen Kumar Palaboyina | Random Forest       | on hold  |
+| SCBML005     | Temperature Prediction                    | PAGADALA NAGENDRA        | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML006     | Diabetes Classification                   | SRI LASYA KASTALA        | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML007     | Fuel Efficiency Estimation                | Balusu Harsha Sri        | Maha Lakshmi            | Random Forest       | on hold  |
+| SCBML008     | Handwritten Digit/Character Recognition  | K.RAGHAVENDRA            | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML009     | Google Search Analysis                    | Matta Bhuvaneswari       | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML010     | Mobile Price Classification               | VEERAMREDDY LAVANYA      | Praveen Kumar Palaboyina | Random Forest       | on hold  |
+| SCBML011     | Predict US Election                       | Amalapurapu Jyothi Sri swaroop | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML012     | Loan Prediction analysis                  | NUNNA RUPA LAVANYA DEVI   | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML013     | Heart Disease prediction                   | B. NAGA SYAMALA DEVI     | Maha Lakshmi            | Random Forest       | on hold  |
+| SCBML014     | Mall customer segmentation                 | T.VASU                   | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML015     | Cancer Diagnosis                           | KONDURI PRAPURNA         | Praveen Kumar Palaboyina | Random Forest       | on hold  |
+| SCBML016     | Cancer Detection                           | A R S S BHARGAVI LATHA   | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML017     | Future Sales Prediction                    | PENJARLA DEEPTHI SAI LAKSHMI | Praveen Kumar Palaboyina | Random Forest       | on hold  |
+| SCBML018     | Water Quality Analysis                     | Navya Sri                | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML019     | Tata Motors Stocks Prediction              | NAMALA HEMANTH KUMAR     | Praveen Kumar Palaboyina
+
 
