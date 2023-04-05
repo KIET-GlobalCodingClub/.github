@@ -37,21 +37,18 @@ About:
 | SCBML001     | Marketing Campaign Success Prediction    | P.T.N.SWETHA             | Praveen Kumar Palaboyina | Random Forest       | on hold  |
 | SCBML002     | Housing Price Prediction                 | S Maheswar               | Praveen Kumar Palaboyina | Regression          | On hold  |
 | SCBML003     | Car Price Prediction                     | GOPATHOTI SRINADH         | Praveen Kumar Palaboyina | SVM                 | on hold  |
-| SCBML004     | Medical Diagnosis                         | Chikkam Sarika           | Praveen Kumar Palaboyina | Random Forest       | on hold  |
-| SCBML005     | Temperature Prediction                    | Swaroop       | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML004     | Future Sales Prediction                      | Chikkam Sarika           | Praveen Kumar Palaboyina | Random Forest       | on hold  |
+| SCBML005     | Cancer Detection                        | Swaroop       | Praveen Kumar Palaboyina | Regression          | on hold  |
 | SCBML006     | Diabetes Classification                   | SRI LASYA KASTALA        | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML007     | Fuel Efficiency Estimation                | Balusu Harsha Sri        | Maha Lakshmi            | Random Forest       | on hold  |
 | SCBML008     | Handwritten Digit/Character Recognition  | K.RAGHAVENDRA            | Praveen Kumar Palaboyina | SVM                 | on hold  |
-| SCBML009     | Google Search Analysis                    | Matta Bhuvaneswari       | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML009     | Water Quality Analysis                    | Jagadek      | Praveen Kumar Palaboyina | Regression          | on hold  |
 | SCBML010     | Mobile Price Classification               | Rupa      | Praveen Kumar Palaboyina | Random Forest       | on hold  |
-| SCBML011     | Predict US Election                       | Amalapurapu Jyothi Sri swaroop | Praveen Kumar Palaboyina | SVM                 | on hold  |
-| SCBML012     | Loan Prediction analysis                  | NUNNA RUPA LAVANYA DEVI   | Praveen Kumar Palaboyina | Regression          | on hold  |
-| SCBML013     | Heart Disease prediction                   | kishore   | Maha Lakshmi            | Random Forest       | on hold  |
-| SCBML014     | Mall customer segmentation                 | Praveen                   | Praveen Kumar Palaboyina | SVM                 | on hold  |
-| SCBML015     | Cancer Diagnosis                           | KONDURI PRAPURNA         | Praveen Kumar Palaboyina | Random Forest       | on hold  |
-| SCBML016     | Cancer Detection                           | A R S S BHARGAVI LATHA   | Praveen Kumar Palaboyina | SVM                 | on hold  |
-| SCBML017     | Future Sales Prediction                    | PENJARLA DEEPTHI SAI LAKSHMI | Praveen Kumar Palaboyina | Random Forest       | on hold  |
-| SCBML018     | Water Quality Analysis                     | Navya Sri                | Praveen Kumar Palaboyina | Regression          | on hold  |
-| SCBML019     | Tata Motors Stocks Prediction              | NAMALA HEMANTH KUMAR     | Praveen Kumar Palaboyina
+| SCBML011     | Predict US Election                       | Rajesh | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML012     | Loan Prediction analysis                  | Vasu  | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML013     | Heart Disease prediction                   | Prapurna   | Maha Lakshmi            | Random Forest       | on hold  |
+| SCBML014     | Mall customer segmentation                 | Praveen.k                   | Praveen Kumar Palaboyina | SVM                 | on hold  |
+
+
 
 
