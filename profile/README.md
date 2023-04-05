@@ -35,22 +35,22 @@ About:
   
 | Project Code | Project Name    | Team Lead | Mentor | project Description |  Status|
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
-|  | Marketing Campaign Success Prediction            |  P.T.N.SWETHA  | Praveen Kumar      |                       | on hold  |
-|             |    Housing Price Prediction          |  S Maheswar  |     |                       |   On hold | 
-|  |    Car Price Prediction              | GOPATHOTI SRINADH   |       |                       | on hold   |
-|  |Medical Diagnosis            | Chikkam Sarika    |     |                       | on hold   |
-|  | Temperature Prediction          | PAGADALA NAGENDRA   |       |                       | on hold  |
-| | Diabetes Classification            | SRI LASYA KASTALA    |      |                       | on hold  |
-| | Fuel Efficiency Estimation         | Balusu Harsha Sri     | Maha Lakshmi     |                       | on hold  |
-| | Handwritten Digit/Character Recognition           | K.RAGHAVENDRA        |      |                       | on hold |
-|  | Google Search Analysis             | Matta Bhuvaneswari  |       |                       | on hold  |
-|   | Mobile Price Classification         | VEERAMREDDY LAVANYA    |      |                       | on hold |
-|  |   Predict  US election         | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar    |           |       on hold  |     
-|             |    Loan Prediction analysis         | NUNNA RUPA LAVANYA DEVI   |    |                       |   on hold  |
-|             |  Heart Disease prediction           | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | on hold  |
-|             | Mall costumer segmentation            | T.VASU   |       |                       |        | on hold  |
-|             |  Cancer Diagnosis         |  KONDURI PRAPURNA    |      |                       | on hold  |
-|             |    Cancer detection         | A R S S BHARGAVI LATHA   |   |                       |       on hold  |
-|             |   Future sales prediction          | PENJARLA DEEPTHI SAI LAKSHMI   |      |                       | on hold  |
-|             |   Water Quality analysis          | Navya Sri   |      |                       | on hold  |
-|             |   Tata motors stocks prediction          | NAMALA HEMANTH KUMAR   | Praveen Kumar      |                       | on hold  |
+| SCBML001 | Marketing Campaign Success Prediction            |  P.T.N.SWETHA  | Praveen Kumar      |                       | on hold  |
+|    SCBML002         |    Housing Price Prediction          |  S Maheswar  |     |                       |   On hold | 
+| SCBML003 |    Car Price Prediction              | GOPATHOTI SRINADH   |       |                       | on hold   |
+| SCBML004 |Medical Diagnosis            | Chikkam Sarika    |     |                       | on hold   |
+|SCBML005  | Temperature Prediction          | PAGADALA NAGENDRA   |       |                       | on hold  |
+|SCBML006 | Diabetes Classification            | SRI LASYA KASTALA    |      |                       | on hold  |
+| SCBML007| Fuel Efficiency Estimation         | Balusu Harsha Sri     | Maha Lakshmi     |                       | on hold  |
+|SCBML008 | Handwritten Digit/Character Recognition           | K.RAGHAVENDRA        |      |                       | on hold |
+| SCBML009 | Google Search Analysis             | Matta Bhuvaneswari  |       |                       | on hold  |
+| SCBML010  | Mobile Price Classification         | VEERAMREDDY LAVANYA    |      |                       | on hold |
+|SCBML011  |   Predict  US election         | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar    |           |       on hold  |     
+|  SCBML012           |    Loan Prediction analysis         | NUNNA RUPA LAVANYA DEVI   |    |                       |   on hold  |
+|   SCBML013          |  Heart Disease prediction           | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | on hold  |
+|  SCBML014           | Mall costumer segmentation            | T.VASU   |       |                       |        | on hold  |
+|  SCBML015           |  Cancer Diagnosis         |  KONDURI PRAPURNA    |      |                       | on hold  |
+|  SCBML016           |    Cancer detection         | A R S S BHARGAVI LATHA   |   |                       |       on hold  |
+|  SCBML017           |   Future sales prediction          | PENJARLA DEEPTHI SAI LAKSHMI   |      |                       | on hold  |
+|   SCBML018          |   Water Quality analysis          | Navya Sri   |      |                       | on hold  |
+|   SCBML019          |   Tata motors stocks prediction          | NAMALA HEMANTH KUMAR   | Praveen Kumar      |                       | on hold  |
