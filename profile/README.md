@@ -38,7 +38,7 @@ About:
 | SCBML002     | Housing Price Prediction                 | S Maheswar               | Praveen Kumar Palaboyina | Regression          | On hold  |
 | SCBML003     | Car Price Prediction                     | GOPATHOTI SRINADH         | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML004     | Medical Diagnosis                         | Chikkam Sarika           | Praveen Kumar Palaboyina | Random Forest       | on hold  |
-| SCBML005     | Temperature Prediction                    | PAGADALA NAGENDRA        | Praveen Kumar Palaboyina | Regression          | on hold  |
+| SCBML005     | Temperature Prediction                    | Swaroop       | Praveen Kumar Palaboyina | Regression          | on hold  |
 | SCBML006     | Diabetes Classification                   | SRI LASYA KASTALA        | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML007     | Fuel Efficiency Estimation                | Balusu Harsha Sri        | Maha Lakshmi            | Random Forest       | on hold  |
 | SCBML008     | Handwritten Digit/Character Recognition  | K.RAGHAVENDRA            | Praveen Kumar Palaboyina | SVM                 | on hold  |
