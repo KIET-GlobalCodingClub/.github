@@ -47,7 +47,7 @@ About:
 | SCBML011     | Predict US Election                       | Rajesh | Praveen Kumar Palaboyina | SVM                 | on hold  |
 | SCBML012     | Loan Prediction analysis                  | Vasu  | Praveen Kumar Palaboyina | Regression          | on hold  |
 | SCBML013     | Heart Disease prediction                   | Prapurna   | Maha Lakshmi            | Random Forest       | on hold  |
-| SCBML014     | Mall customer segmentation                 | Praveen.k                   | Praveen Kumar Palaboyina | SVM                 | on hold  |
+| SCBML014     | Mail customer segmentation                 | Praveen.k                   | Praveen Kumar Palaboyina | SVM                 | on hold  |
 
 
 
