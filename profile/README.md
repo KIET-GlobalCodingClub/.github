@@ -34,7 +34,7 @@ About:
 
 | Project Code | Project Name                             | Team Lead                 | Mentor                  | Algorithm Used      | Status       |
 |--------------|------------------------------------------|--------------------------|------------------------|---------------------|--------------|
-| SCBML001     | Marketing Campaign Success Prediction    | P.T.N.SWETHA             | Praveen Kumar Palaboyina | Random Forest       | on progress  |
+| SCBML001     | Gold Price Prediction    | P.T.N.SWETHA             | Praveen Kumar Palaboyina | Random Forest       | on progress  |
 | SCBML002     | Housing Price Prediction                 | S Maheswar               | Praveen Kumar Palaboyina | Regression          | on progress  |
 | SCBML003     | Car Price Prediction                     | GOPATHOTI SRINADH         | Praveen Kumar Palaboyina | SVM                 | on progress  |
 | SCBML004     | Future Sales Prediction                      | Chikkam Sarika           | Praveen Kumar Palaboyina | Random Forest       | on progress  |
