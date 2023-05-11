@@ -1,4 +1,4 @@
-# KIET-SpecialCoding
+# GLOBAL CODING CLUB @ KIET
 
 About:
 
