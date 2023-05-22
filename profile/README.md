@@ -49,6 +49,13 @@ About:
 | SCBML013     | Heart Disease prediction                   | Prapurna   | Maha Lakshmi            | Random Forest       | on progress  |
 | SCBML014     | Mail customer segmentation                 | Praveen.k                   | Praveen Kumar Palaboyina | SVM                 | on progress  |
 
+# 2025 Projects
+
+  
+| Project Code | Project Name    | Team Lead | Mentor | project Description | Status
+| ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
+|             |          |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | Completed |
+|             |          |  S Maheswar  | Mahalakshmi    |                       | Completed |
 
 
 
