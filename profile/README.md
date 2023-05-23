@@ -49,14 +49,36 @@ About:
 | SCBML013     | Heart Disease prediction                   | Prapurna   | Maha Lakshmi            | Random Forest       | on progress  |
 | SCBML014     | Mail customer segmentation                 | Praveen.k                   | Praveen Kumar Palaboyina | SVM                 | on progress  |
 
-# 2025 Projects
+# 36 FLASK 2025 Projects
 
   
-| Project Code | Project Name    | Team Lead | Mentor | project Description | Status
-| ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
-|             |          |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | Completed |
-
-
-
-
-
+| Project Code | Project Name    | Name  | project Description | Status
+| ----------- | ----------- | --------------- |  -------------------  | ---------- |
+|     1        |      EYE ANALYSIS FORM    |  K.V .RAMYA  |                       | Completed |
+|     2       |       DOCTOR APPOINTMENT   | TANMAI       |                        | Completed |
+|     3       |       E WEATHER PREDICTION APP   | SRINU      |                        | Completed |
+|     4       |      CGPA CALCULATOR   | VAMSI       |                        | Completed |
+|     5       |    LOGIN PAGE   | R.DHARANI       |                        | Completed |
+|     6       |       ONLINE BUS TICKET BOOKING   | BHARGAVI       |                        | Completed |
+|     7      |      URL SHORTNER   | ANJANI       |                        | Completed |
+|     8       |       CONTACT BOOK   | CHANDU LAVANYA      |                        | Completed |
+|     9       |      QR GENERATOR   | JAYASREE       |                        | Completed |
+|     10      |       GUI AND TERMINAL BASED CHATBOT  | NAGABABU      |                        | Completed |
+|     11       |      BMI CALCULATOR   | ROHINI       |                        | Completed |
+ |     12       |      QR CODE GENERATOR   | GOPI       |                        | Completed |
+|     13      |      BMI CALCULATOR   | VARSHA       |                        | Completed |
+|     14      |      SPEECH RECOGNIZATION   | SATYA BALAJI       |                        | Completed |
+|     15      |    NOTE HUB   | CHAITANYA       |                        | Completed |
+|     16       |     MY BLOG   |KRISHNA      |                        | Completed |
+|     17       |      IPL MATCH PREDICTION   | MOUNIKA       |                        | Completed |
+|     18      |     INLINE BUS TICKET BOOKING   |PAVAN KALYAN       |                        | Completed |
+|     19       |     PARAGRAPH LINE COUNTER   | RAM RAJESH       |                        | Completed |
+ |     20      |    BANK ACCOUNT MANAGEMENT   | ABHISHEK       |                        | Completed |
+|     21       |      SCORE CALCULATOR   | YOGITHA       |                        | Completed |
+|     22      |      RESTUARANT WEBSITE   | JAYA LAKSHMI       |                        | Completed |
+|     23      |      APPOINTMENT SCHEDULER   | ABHIVEER       |                        | Completed |
+|     24       |      FEEDBACK FORM    | SOWJANYA       |                        | Completed |
+|     25       |   IMAGE SKETCHER   |LAVANYA       |                        | Completed |
+|     26       |   WEATHER APP   | NAGA DURGA       |                        | Completed |
+|     27      |    FACE RECOGNIZATION   | ANJALI       |                        | Completed |
+|     28      |    WEATHER APP   | NAVYA SRI       |                        | Completed |
