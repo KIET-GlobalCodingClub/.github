@@ -55,7 +55,7 @@ About:
 | Project Code | Project Name    | Team Lead | Mentor | project Description | Status
 | ----------- | ----------- | --------------- | ----- | -------------------  | ---------- |
 |             |          |  P.T.N.SWETHA  | Praveen Kumar Palaboyina    |                       | Completed |
-|             |          |  S Maheswar  | Mahalakshmi    |                       | Completed |
+
 
 
 
