@@ -17,8 +17,6 @@ About:
 |             |   Task Manager          | SRI LASYA KASTALA    | praveen kumar     |                       | Completed |
 |             |  Leave Management          | Balusu Harsha Sri     |   Mahalakshmi    |                       | Completed |
 |             | SCB Infoboard          | K.RAGHAVENDRA        |Mahalakshmi     |                       |Completed |
-|             |             | Matta Bhuvaneswari  |  Mahalakshmi    |                       |  Completed |
-|             |             | VEERAMREDDY LAVANYA    |  Maha Lakshmi     |                       |  Completed |
 |             |      Task Asssigner     | Amalapurapu Jyothi Sri swaroop     | Praveen  Kumar Palaboyina   |           |      Completed |      
 |             |     Learning Hub        | NUNNA RUPA LAVANYA DEVI   |  Mahalakshmi  |                       |Completed |
 |             |    Online Learning Website         | B. NAGA SYAMALA DEVI    |   Maha Lakshmi    |                       | Completed |
