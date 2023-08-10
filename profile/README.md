@@ -2,7 +2,7 @@
 
 About:
 
-   A totally student-focused club at KIET College in Kakinada, Special Coding Batch aims to help students shift their thinking from typical engineering life to areas of technology they are most interested in while also focusing on real-world web technology and emerging technological problems.
+   A totally student-focused club at KIET College in Kakinada, Globalcodingclub@KIET aims to help students shift their thinking from typical engineering life to areas of technology they are most interested in while also focusing on real-world web technology and emerging technological problems.
    
 # Web-projects
 
