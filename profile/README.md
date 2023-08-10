@@ -32,20 +32,20 @@ About:
 
 | Project Code | Project Name                             | Team Lead                 | Mentor                  | Algorithm Used      | Status       |
 |--------------|------------------------------------------|--------------------------|------------------------|---------------------|--------------|
-| SCBML001     | Gold Price Prediction    | P.T.N.SWETHA             | Praveen Kumar Palaboyina | Random Forest       | on progress  |
-| SCBML002     | Housing Price Prediction                 | S Maheswar               | Praveen Kumar Palaboyina | Regression          | on progress  |
-| SCBML003     | Car Price Prediction                     | GOPATHOTI SRINADH         | Praveen Kumar Palaboyina | SVM                 | on progress  |
-| SCBML004     | Future Sales Prediction                      | Chikkam Sarika           | Praveen Kumar Palaboyina | Random Forest       | on progress  |
-| SCBML005     | Cancer Detection                        | Swaroop       | Praveen Kumar Palaboyina | Regression          | on progress  |
-| SCBML006     | Diabetes Classification                   | SRI LASYA KASTALA        | Praveen Kumar Palaboyina | SVM                 | on progress  |
-| SCBML007     | Fuel Efficiency Estimation                | Balusu Harsha Sri        | Maha Lakshmi            | Random Forest       | on progress  |
-| SCBML008     | Handwritten Digit/Character Recognition  | K.RAGHAVENDRA            | Praveen Kumar Palaboyina | SVM                 | on progress  |
-| SCBML009     | Water Quality Analysis                    | Jagadek      | Praveen Kumar Palaboyina | Regression          | on progress  |
-| SCBML010     | Mobile Price Classification               | Rupa      | Praveen Kumar Palaboyina | Random Forest       | on progress  |
-| SCBML011     | Predict US Election                       | Rajesh | Praveen Kumar Palaboyina | SVM                 | on progress  |
-| SCBML012     | Loan Prediction analysis                  | Vasu  | Praveen Kumar Palaboyina | Regression          | on progress  |
-| SCBML013     | Heart Disease prediction                   | Prapurna   | Maha Lakshmi            | Random Forest       | on progress  |
-| SCBML014     | Mail customer segmentation                 | Praveen.k                   | Praveen Kumar Palaboyina | SVM                 | on progress  |
+| SCBML001     | Gold Price Prediction    | P.T.N.SWETHA             | Praveen Kumar Palaboyina | Random Forest       | Completed  |
+| SCBML002     | Housing Price Prediction                 | S Maheswar               | Praveen Kumar Palaboyina | Regression          | Completed|
+| SCBML003     | Car Price Prediction                     | GOPATHOTI SRINADH         | Praveen Kumar Palaboyina | SVM                 | Completed |
+| SCBML004     | Future Sales Prediction                      | Chikkam Sarika           | Praveen Kumar Palaboyina | Random Forest       | Completed  |
+| SCBML005     | Cancer Detection                        | Swaroop       | Praveen Kumar Palaboyina | Regression          | Completed |
+| SCBML006     | Diabetes Classification                   | SRI LASYA KASTALA        | Praveen Kumar Palaboyina | SVM                 | Completed |
+| SCBML007     | Fuel Efficiency Estimation                | Balusu Harsha Sri        | Maha Lakshmi            | Random Forest       | Completed |
+| SCBML008     | Handwritten Digit/Character Recognition  | K.RAGHAVENDRA            | Praveen Kumar Palaboyina | SVM                 | Completed  |
+| SCBML009     | Water Quality Analysis                    | Jagadek      | Praveen Kumar Palaboyina | Regression          | Completed  |
+| SCBML010     | Mobile Price Classification               | Rupa      | Praveen Kumar Palaboyina | Random Forest       | Completed |
+| SCBML011     | Predict US Election                       | Rajesh | Praveen Kumar Palaboyina | SVM                 | Completed  |
+| SCBML012     | Loan Prediction analysis                  | Vasu  | Praveen Kumar Palaboyina | Regression          | Completed |
+| SCBML013     | Heart Disease prediction                   | Prapurna   | Maha Lakshmi            | Random Forest       | Completed |
+| SCBML014     | Mail customer segmentation                 | Praveen.k                   | Praveen Kumar Palaboyina | SVM                 | Completed |
 
 # 36 FLASK 2025 Projects
 
