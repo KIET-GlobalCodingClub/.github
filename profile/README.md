@@ -4,7 +4,7 @@ About:
 
    A totally student-focused club at KIET College in Kakinada, Globalcodingclub@KIET aims to help students shift their thinking from typical engineering life to areas of technology they are most interested in while also focusing on real-world web technology and emerging technological problems.
    
-# Web-projects
+# Web-projects -- 2024 Batch
 
   
 | Project Code | Project Name    | Team Lead | Mentor | project Description | Status
@@ -28,7 +28,7 @@ About:
 |             |      SCB website       | NAMALA HEMANTH KUMAR   | Praveen Kumar Palaboyina     |                       |  Onprogress |
 
    
-# ML Projects--SUPERVISED LEARNING
+# ML Projects--SUPERVISED LEARNING -- 2024 Batch
 
 | Project Code | Project Name                             | Team Lead                 | Mentor                  | Algorithm Used      | Status       |
 |--------------|------------------------------------------|--------------------------|------------------------|---------------------|--------------|
@@ -50,33 +50,33 @@ About:
 # 36 FLASK 2025 Projects
 
   
-| Project Code | Project Name    | Name  | project Description | Status
-| ----------- | ----------- | --------------- |  -------------------  | ---------- |
-|     SCB3601        |      EYE ANALYSIS FORM    |  K.V .RAMYA  |                       | Completed |
-|      SCB3602       |       DOCTOR APPOINTMENT   | TANMAI       |                        | Completed |
-|      SCB3603       |       E WEATHER PREDICTION APP   | SRINU      |                        | Completed |
-|      SCB3604       |      CGPA CALCULATOR   | VAMSI       |                        | Completed |
-|      SCB3605       |    LOGIN PAGE   | R.DHARANI       |                        | Completed |
-|      SCB3606       |       ONLINE BUS TICKET BOOKING   | BHARGAVI       |                        | Completed |
-|      SCB3607      |      URL SHORTNER   | ANJANI       |                        | Completed |
-|      SCB3608       |       CONTACT BOOK   | CHANDU LAVANYA      |                        | Completed |
-|      SCB3609       |      QR GENERATOR   | JAYASREE       |                        | Completed |
-|      SCB3610      |       GUI AND TERMINAL BASED CHATBOT  | NAGABABU      |                        | Completed |
-|      SCB3611       |      BMI CALCULATOR   | ROHINI       |                        | Completed |
- |     SCB3612       |      QR CODE GENERATOR   | GOPI       |                        | Completed |
-|      SCB3613      |      BMI CALCULATOR   | VARSHA       |                        | Completed |
-|      SCB3614      |      SPEECH RECOGNIZATION   | SATYA BALAJI       |                        | Completed |
-|      SCB3615      |    NOTE HUB   | CHAITANYA       |                        | Completed |
-|      SCB3616       |     MY BLOG   |KRISHNA      |                        | Completed |
-|      SCB3617       |      IPL MATCH PREDICTION   | MOUNIKA       |                        | Completed |
-|      SCB3618      |     INLINE BUS TICKET BOOKING   |PAVAN KALYAN       |                        | Completed |
-|      SCB3619       |     PARAGRAPH LINE COUNTER   | RAM RAJESH       |                        | Completed |
- |      SCB3620      |    BANK ACCOUNT MANAGEMENT   | ABHISHEK       |                        | Completed |
-|      SCB3621       |      SCORE CALCULATOR   | YOGITHA       |                        | Completed |
-|      SCB3622      |      RESTUARANT WEBSITE   | JAYA LAKSHMI       |                        | Completed |
-|      SCB3623      |      APPOINTMENT SCHEDULER   | ABHIVEER       |                        | Completed |
-|      SCB3624       |      FEEDBACK FORM    | SOWJANYA       |                        | Completed |
-|      SCB3625       |   IMAGE SKETCHER   |LAVANYA       |                        | Completed |
-|      SCB3626       |   WEATHER APP   | NAGA DURGA       |                        | Completed |
-|      SCB3627      |    FACE RECOGNIZATION   | ANJALI       |                        | Completed |
-|      SCB3628      |    WEATHER APP   | NAVYA SRI       |                        | Completed |
+| Project Code | Project Name    | Name  | project Description | Status | Mentor |
+| ----------- | ----------- | --------------- |  -------------------  | ---------- | --------------- |
+|     SCB3601        |      EYE ANALYSIS FORM    |  K.V .RAMYA  |                       | Completed | Swetha 
+|      SCB3602       |       DOCTOR APPOINTMENT   | TANMAI       |                        | Completed | Lasya
+|      SCB3603       |       E WEATHER PREDICTION APP   | SRINU      |                        | Completed | Sarika
+|      SCB3604       |      CGPA CALCULATOR   | VAMSI       |                        | Completed | Peri reddy
+|      SCB3605       |    LOGIN PAGE   | R.DHARANI       |                        | Completed | Raghavendra
+|      SCB3606       |       ONLINE BUS TICKET BOOKING   | BHARGAVI       |                        | Completed | Harshini
+|      SCB3607      |      URL SHORTNER   | ANJANI       |                        | Completed | Swetha
+|      SCB3608       |       CONTACT BOOK   | CHANDU LAVANYA      |                        | Completed | Lasya
+|      SCB3609       |      QR GENERATOR   | JAYASREE       |                        | Completed | Sarika
+|      SCB3610      |       GUI AND TERMINAL BASED CHATBOT  | NAGABABU      |                        | Completed | Peri reddy
+|      SCB3611       |      BMI CALCULATOR   | ROHINI       |                        | Completed | Raghavendra
+ |     SCB3612       |      QR CODE GENERATOR   | GOPI       |                        | Completed | Swetha 
+|      SCB3613      |      BMI CALCULATOR   | VARSHA       |                        | Completed |Lasya
+|      SCB3614      |      SPEECH RECOGNIZATION   | SATYA BALAJI       |                        | Completed | Perireddy
+|      SCB3615      |    NOTE HUB   | CHAITANYA       |                        | Completed | Raghavendra
+|      SCB3616       |     MY BLOG   |KRISHNA      |                        | Completed | Sarika
+|      SCB3617       |      IPL MATCH PREDICTION   | MOUNIKA       |                        | Completed | Swetha
+|      SCB3618      |     INLINE BUS TICKET BOOKING   |PAVAN KALYAN       |                        | Completed | Lasya
+|      SCB3619       |     PARAGRAPH LINE COUNTER   | RAM RAJESH       |                        | Completed | Sarika
+ |      SCB3620      |    BANK ACCOUNT MANAGEMENT   | ABHISHEK       |                        | Completed | Peri reddy
+|      SCB3621       |      SCORE CALCULATOR   | YOGITHA       |                        | Completed | Raghavendra
+|      SCB3622      |      RESTUARANT WEBSITE   | JAYA LAKSHMI       |                        | Completed | Swetha 
+|      SCB3623      |      APPOINTMENT SCHEDULER   | ABHIVEER       |                        | Completed | Lasya
+|      SCB3624       |      FEEDBACK FORM    | SOWJANYA       |                        | Completed | sarika
+|      SCB3625       |   IMAGE SKETCHER   |LAVANYA       |                        | Completed | Raghavendra
+|      SCB3626       |   WEATHER APP   | NAGA DURGA       |                        | Completed | Peri reddy
+|      SCB3627      |    FACE RECOGNIZATION   | ANJALI       |                        | Completed | Swetha
+|      SCB3628      |    WEATHER APP   | NAVYA SRI       |                        | Completed |Lasya
