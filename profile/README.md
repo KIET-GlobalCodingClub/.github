@@ -86,5 +86,7 @@ About:
   
 | Project Code | Project Name    | Name  | project Description | Status | Mentor |
 | ----------- | ----------- | --------------- |  -------------------  | ---------- | --------------- |
-|     GCC01        |      Attendance Management System    |  KUDUPUDI DURGA PRASAD  |                       | Ongoing |  
+|     GCC202601        |      Attendance Management System Frontend   |  KUDUPUDI DURGA PRASAD  |                       | Ongoing |  
+|     GCC202602        |      Attendance Management System  Backend  |  A.PRADEEP  |                       | Ongoing |  
+|     GCC202603        |     Course Management System Frontend       | BOMMIREDDY AISHWARYA |         | Ongoing |
 
