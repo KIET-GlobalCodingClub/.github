@@ -80,3 +80,11 @@ About:
 |      SCB3626       |   WEATHER APP   | NAGA DURGA       |                        | Completed | Peri reddy
 |      SCB3627      |    FACE RECOGNIZATION   | ANJALI       |                        | Completed | Swetha
 |      SCB3628      |    WEATHER APP   | NAVYA SRI       |                        | Completed |Lasya
+
+# MAIN 2026 Projects
+
+  
+| Project Code | Project Name    | Name  | project Description | Status | Mentor |
+| ----------- | ----------- | --------------- |  -------------------  | ---------- | --------------- |
+|     GCC01        |      Attendance Management System    |  KUDUPUDI DURGA PRASAD  |                       | Ongoing |  
+
