@@ -86,14 +86,14 @@ About:
   
 | Project Code | Project Name    | Name  | project Description | Status | Mentor |
 | ----------- | ----------- | --------------- |  -------------------  | ---------- | --------------- |
-|     GCC202601        |      Attendance Management System Frontend   |  KUDUPUDI DURGA PRASAD  |                       | Ongoing |  
-|     GCC202602        |      Attendance Management System  Backend  |  A.PRADEEP  |                       | Ongoing |  
-|     GCC202603        |     Course Management System Frontend       | BOMMIREDDY AISHWARYA |         | Ongoing |
-|     GCC202604        |     Course Management System Backend       | ASHOK ATRAGADDA |         | Ongoing |
-|     GCC202605        |     Compiler Based Learning Management System       | EEMANI MARUTHI PRASANNA |         | Ongoing |
-|     GCC202606        |     GCC Hiring Platform  Frontend     | Pilla Dayanand |         | Ongoing |
-|     GCC202607        |     GCC Hiring Platform  Backend     | M. HEMA SATYAVENI |         | Ongoing |
-|     GCC202608        |     Hackathon Management system      | V.GURU BRAHMAM |         | Ongoing |
-|     GCC202609        |     weekly coding Contest Platform      | NAGIREDDY KEERTHI DURGA |         | Ongoing |
-|     GCC202610        |     Student Activity Monetoring      | NAGIREDDY KEERTHI DURGA |         | Ongoing |
+|     GCC202601        |      Attendance Management System Frontend   |  KUDUPUDI DURGA PRASAD  |                       | Ongoing |  Peri reddy
+|     GCC202602        |      Attendance Management System  Backend  |  A.PRADEEP  |                       | Ongoing |  Peri reddy
+|     GCC202603        |     Course Management System Frontend       | BOMMIREDDY AISHWARYA |         | Ongoing | Likitha
+|     GCC202604        |     Course Management System Backend       | ASHOK ATRAGADDA |         | Ongoing |Likitha
+|     GCC202605        |     Compiler Based Learning Management System       | EEMANI MARUTHI PRASANNA |         | Ongoing | Swetha 
+|     GCC202606        |     GCC Hiring Platform  Frontend     | Pilla Dayanand |         | Ongoing | Swetha
+|     GCC202607        |     GCC Hiring Platform  Backend     | M. HEMA SATYAVENI |         | Ongoing |Swetha
+|     GCC202608        |     Hackathon Management system      | V.GURU BRAHMAM |         | Ongoing | Praveen
+|     GCC202609        |     weekly coding Contest Platform      | NAGIREDDY KEERTHI DURGA |         | Ongoing | Praveen
+|     GCC202610        |     Student Activity Monetoring      | NAGIREDDY KEERTHI DURGA |         | Ongoing | Praveen
 
