@@ -95,5 +95,5 @@ About:
 |     GCC202607        |     GCC Hiring Platform  Backend     | M. HEMA SATYAVENI |         | Ongoing |Swetha
 |     GCC202608        |     Hackathon Management system      | V.GURU BRAHMAM |         | Ongoing | Praveen
 |     GCC202609        |     weekly coding Contest Platform      | NAGIREDDY KEERTHI DURGA |         | Ongoing | Praveen
-|     GCC202610        |     Student Activity Monetoring      | NAGIREDDY KEERTHI DURGA |         | Ongoing | Praveen
+|     GCC202610        |     Student Activity Monetoring      | madapala sahitha|         | Ongoing | Praveen
 
