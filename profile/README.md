@@ -89,4 +89,11 @@ About:
 |     GCC202601        |      Attendance Management System Frontend   |  KUDUPUDI DURGA PRASAD  |                       | Ongoing |  
 |     GCC202602        |      Attendance Management System  Backend  |  A.PRADEEP  |                       | Ongoing |  
 |     GCC202603        |     Course Management System Frontend       | BOMMIREDDY AISHWARYA |         | Ongoing |
+|     GCC202604        |     Course Management System Backend       | ASHOK ATRAGADDA |         | Ongoing |
+|     GCC202605        |     Compiler Based Learning Management System       | EEMANI MARUTHI PRASANNA |         | Ongoing |
+|     GCC202606        |     GCC Hiring Platform  Frontend     | Pilla Dayanand |         | Ongoing |
+|     GCC202607        |     GCC Hiring Platform  Backend     | M. HEMA SATYAVENI |         | Ongoing |
+|     GCC202608        |     Hackathon Management system      | V.GURU BRAHMAM |         | Ongoing |
+|     GCC202609        |     weekly coding Contest Platform      | NAGIREDDY KEERTHI DURGA |         | Ongoing |
+|     GCC202610        |     Student Activity Monetoring      | NAGIREDDY KEERTHI DURGA |         | Ongoing |
 
